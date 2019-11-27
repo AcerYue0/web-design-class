@@ -23,6 +23,42 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@media Screen and (max-width: 600px){
+	div {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+	a {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+}
+@media Screen and (min-width: 768px){
+	div {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+	a {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+}
+@media Screen and (max-width: 1280px){
+	div {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+	a {
+		float:none;
+		width:auto;
+		height:auto;
+	}
+}
 /*********************************************************************************/
 /* Icons                                                                         */
 /* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
